@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E07-NxNMatrix\bin\Debug\netcoreapp3.1\E07-NxNMatrix.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E07-NxNMatrix\bin\Debug\netcoreapp3.1\E07-NxNMatrix.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E07-NxNMatrix\bin\Debug\netcoreapp3.1\E07-NxNMatrix.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E07-NxNMatrix\bin\Debug\netcoreapp3.1\E07-NxNMatrix.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E07-NxNMatrix\bin\Debug\netcoreapp3.1\E07-NxNMatrix.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E07-NxNMatrix\bin\Debug\netcoreapp3.1\E07-NxNMatrix.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E07-NxNMatrix\obj\Debug\netcoreapp3.1\E07-NxNMatrix.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E07-NxNMatrix\obj\Debug\netcoreapp3.1\E07-NxNMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E07-NxNMatrix\obj\Debug\netcoreapp3.1\E07-NxNMatrix.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E07-NxNMatrix\obj\Debug\netcoreapp3.1\E07-NxNMatrix.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E07-NxNMatrix\obj\Debug\netcoreapp3.1\E07-NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E07-NxNMatrix\obj\Debug\netcoreapp3.1\E07-NxNMatrix.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E07-NxNMatrix\obj\Debug\netcoreapp3.1\E07-NxNMatrix.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E07-NxNMatrix\obj\Debug\netcoreapp3.1\E07-NxNMatrix.genruntimeconfig.cache

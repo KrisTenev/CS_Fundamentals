@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\M02_PascalTriangle\bin\Debug\netcoreapp3.1\M02_PascalTriangle.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\M02_PascalTriangle\bin\Debug\netcoreapp3.1\M02_PascalTriangle.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\M02_PascalTriangle\bin\Debug\netcoreapp3.1\M02_PascalTriangle.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\M02_PascalTriangle\bin\Debug\netcoreapp3.1\M02_PascalTriangle.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\M02_PascalTriangle\bin\Debug\netcoreapp3.1\M02_PascalTriangle.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\M02_PascalTriangle\bin\Debug\netcoreapp3.1\M02_PascalTriangle.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\M02_PascalTriangle\obj\Debug\netcoreapp3.1\M02_PascalTriangle.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\M02_PascalTriangle\obj\Debug\netcoreapp3.1\M02_PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\M02_PascalTriangle\obj\Debug\netcoreapp3.1\M02_PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\M02_PascalTriangle\obj\Debug\netcoreapp3.1\M02_PascalTriangle.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\M02_PascalTriangle\obj\Debug\netcoreapp3.1\M02_PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\M02_PascalTriangle\obj\Debug\netcoreapp3.1\M02_PascalTriangle.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\M02_PascalTriangle\obj\Debug\netcoreapp3.1\M02_PascalTriangle.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\M02_PascalTriangle\obj\Debug\netcoreapp3.1\M02_PascalTriangle.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "M02_PascalTriangle/1.0.0": {
+        "runtime": {
+          "M02_PascalTriangle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M02_PascalTriangle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

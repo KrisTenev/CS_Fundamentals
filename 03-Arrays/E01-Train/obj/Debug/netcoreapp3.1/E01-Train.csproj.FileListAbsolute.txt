@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E01-Train\bin\Debug\netcoreapp3.1\E01-Train.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E01-Train\bin\Debug\netcoreapp3.1\E01-Train.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E01-Train\bin\Debug\netcoreapp3.1\E01-Train.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E01-Train\bin\Debug\netcoreapp3.1\E01-Train.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E01-Train\bin\Debug\netcoreapp3.1\E01-Train.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E01-Train\bin\Debug\netcoreapp3.1\E01-Train.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E01-Train\obj\Debug\netcoreapp3.1\E01-Train.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E01-Train\obj\Debug\netcoreapp3.1\E01-Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E01-Train\obj\Debug\netcoreapp3.1\E01-Train.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E01-Train\obj\Debug\netcoreapp3.1\E01-Train.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E01-Train\obj\Debug\netcoreapp3.1\E01-Train.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E01-Train\obj\Debug\netcoreapp3.1\E01-Train.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E01-Train\obj\Debug\netcoreapp3.1\E01-Train.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E01-Train\obj\Debug\netcoreapp3.1\E01-Train.genruntimeconfig.cache

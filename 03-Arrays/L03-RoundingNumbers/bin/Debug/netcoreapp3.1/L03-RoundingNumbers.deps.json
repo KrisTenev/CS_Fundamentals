@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "L03-RoundingNumbers/1.0.0": {
+        "runtime": {
+          "L03-RoundingNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L03-RoundingNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

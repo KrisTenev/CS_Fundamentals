@@ -1,0 +1,14 @@
+C:\Users\z003tyad\Source\Repos\KrisTenev\CS_Fundamentals\01-BasicSyntax_ConditionalStatements_Loops\E09-PadawanEquipment\bin\Debug\netcoreapp3.1\E09-PadawanEquipment.exe
+C:\Users\z003tyad\Source\Repos\KrisTenev\CS_Fundamentals\01-BasicSyntax_ConditionalStatements_Loops\E09-PadawanEquipment\bin\Debug\netcoreapp3.1\E09-PadawanEquipment.deps.json
+C:\Users\z003tyad\Source\Repos\KrisTenev\CS_Fundamentals\01-BasicSyntax_ConditionalStatements_Loops\E09-PadawanEquipment\bin\Debug\netcoreapp3.1\E09-PadawanEquipment.runtimeconfig.json
+C:\Users\z003tyad\Source\Repos\KrisTenev\CS_Fundamentals\01-BasicSyntax_ConditionalStatements_Loops\E09-PadawanEquipment\bin\Debug\netcoreapp3.1\E09-PadawanEquipment.runtimeconfig.dev.json
+C:\Users\z003tyad\Source\Repos\KrisTenev\CS_Fundamentals\01-BasicSyntax_ConditionalStatements_Loops\E09-PadawanEquipment\bin\Debug\netcoreapp3.1\E09-PadawanEquipment.dll
+C:\Users\z003tyad\Source\Repos\KrisTenev\CS_Fundamentals\01-BasicSyntax_ConditionalStatements_Loops\E09-PadawanEquipment\bin\Debug\netcoreapp3.1\E09-PadawanEquipment.pdb
+C:\Users\z003tyad\Source\Repos\KrisTenev\CS_Fundamentals\01-BasicSyntax_ConditionalStatements_Loops\E09-PadawanEquipment\obj\Debug\netcoreapp3.1\E09-PadawanEquipment.csproj.AssemblyReference.cache
+C:\Users\z003tyad\Source\Repos\KrisTenev\CS_Fundamentals\01-BasicSyntax_ConditionalStatements_Loops\E09-PadawanEquipment\obj\Debug\netcoreapp3.1\E09-PadawanEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\Source\Repos\KrisTenev\CS_Fundamentals\01-BasicSyntax_ConditionalStatements_Loops\E09-PadawanEquipment\obj\Debug\netcoreapp3.1\E09-PadawanEquipment.AssemblyInfoInputs.cache
+C:\Users\z003tyad\Source\Repos\KrisTenev\CS_Fundamentals\01-BasicSyntax_ConditionalStatements_Loops\E09-PadawanEquipment\obj\Debug\netcoreapp3.1\E09-PadawanEquipment.AssemblyInfo.cs
+C:\Users\z003tyad\Source\Repos\KrisTenev\CS_Fundamentals\01-BasicSyntax_ConditionalStatements_Loops\E09-PadawanEquipment\obj\Debug\netcoreapp3.1\E09-PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\Source\Repos\KrisTenev\CS_Fundamentals\01-BasicSyntax_ConditionalStatements_Loops\E09-PadawanEquipment\obj\Debug\netcoreapp3.1\E09-PadawanEquipment.dll
+C:\Users\z003tyad\Source\Repos\KrisTenev\CS_Fundamentals\01-BasicSyntax_ConditionalStatements_Loops\E09-PadawanEquipment\obj\Debug\netcoreapp3.1\E09-PadawanEquipment.pdb
+C:\Users\z003tyad\Source\Repos\KrisTenev\CS_Fundamentals\01-BasicSyntax_ConditionalStatements_Loops\E09-PadawanEquipment\obj\Debug\netcoreapp3.1\E09-PadawanEquipment.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E04-Orders\bin\Debug\netcoreapp3.1\E04-Orders.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E04-Orders\bin\Debug\netcoreapp3.1\E04-Orders.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E04-Orders\bin\Debug\netcoreapp3.1\E04-Orders.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E04-Orders\bin\Debug\netcoreapp3.1\E04-Orders.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E04-Orders\bin\Debug\netcoreapp3.1\E04-Orders.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E04-Orders\bin\Debug\netcoreapp3.1\E04-Orders.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E04-Orders\obj\Debug\netcoreapp3.1\E04-Orders.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E04-Orders\obj\Debug\netcoreapp3.1\E04-Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E04-Orders\obj\Debug\netcoreapp3.1\E04-Orders.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E04-Orders\obj\Debug\netcoreapp3.1\E04-Orders.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E04-Orders\obj\Debug\netcoreapp3.1\E04-Orders.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E04-Orders\obj\Debug\netcoreapp3.1\E04-Orders.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E04-Orders\obj\Debug\netcoreapp3.1\E04-Orders.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E04-Orders\obj\Debug\netcoreapp3.1\E04-Orders.genruntimeconfig.cache

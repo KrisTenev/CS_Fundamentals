@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P03-WordFilter\bin\Debug\netcoreapp3.1\P03-WordFilter.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P03-WordFilter\bin\Debug\netcoreapp3.1\P03-WordFilter.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P03-WordFilter\bin\Debug\netcoreapp3.1\P03-WordFilter.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P03-WordFilter\bin\Debug\netcoreapp3.1\P03-WordFilter.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P03-WordFilter\bin\Debug\netcoreapp3.1\P03-WordFilter.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P03-WordFilter\bin\Debug\netcoreapp3.1\P03-WordFilter.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P03-WordFilter\obj\Debug\netcoreapp3.1\P03-WordFilter.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P03-WordFilter\obj\Debug\netcoreapp3.1\P03-WordFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P03-WordFilter\obj\Debug\netcoreapp3.1\P03-WordFilter.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P03-WordFilter\obj\Debug\netcoreapp3.1\P03-WordFilter.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P03-WordFilter\obj\Debug\netcoreapp3.1\P03-WordFilter.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P03-WordFilter\obj\Debug\netcoreapp3.1\P03-WordFilter.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P03-WordFilter\obj\Debug\netcoreapp3.1\P03-WordFilter.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P03-WordFilter\obj\Debug\netcoreapp3.1\P03-WordFilter.genruntimeconfig.cache

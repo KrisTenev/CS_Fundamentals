@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E04-ArrayRotation\bin\Debug\netcoreapp3.1\E04-ArrayRotation.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E04-ArrayRotation\bin\Debug\netcoreapp3.1\E04-ArrayRotation.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E04-ArrayRotation\bin\Debug\netcoreapp3.1\E04-ArrayRotation.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E04-ArrayRotation\bin\Debug\netcoreapp3.1\E04-ArrayRotation.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E04-ArrayRotation\bin\Debug\netcoreapp3.1\E04-ArrayRotation.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E04-ArrayRotation\bin\Debug\netcoreapp3.1\E04-ArrayRotation.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E04-ArrayRotation\obj\Debug\netcoreapp3.1\E04-ArrayRotation.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E04-ArrayRotation\obj\Debug\netcoreapp3.1\E04-ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E04-ArrayRotation\obj\Debug\netcoreapp3.1\E04-ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E04-ArrayRotation\obj\Debug\netcoreapp3.1\E04-ArrayRotation.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E04-ArrayRotation\obj\Debug\netcoreapp3.1\E04-ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E04-ArrayRotation\obj\Debug\netcoreapp3.1\E04-ArrayRotation.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E04-ArrayRotation\obj\Debug\netcoreapp3.1\E04-ArrayRotation.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E04-ArrayRotation\obj\Debug\netcoreapp3.1\E04-ArrayRotation.genruntimeconfig.cache

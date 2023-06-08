@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\E07-MaxSequenceOfEqualElements.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\E07-MaxSequenceOfEqualElements.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\E07-MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\E07-MaxSequenceOfEqualElements.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\E07-MaxSequenceOfEqualElements.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\E07-MaxSequenceOfEqualElements.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\E07-MaxSequenceOfEqualElements.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\E07-MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\E07-MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\E07-MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\E07-MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\E07-MaxSequenceOfEqualElements.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\E07-MaxSequenceOfEqualElements.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\E07-MaxSequenceOfEqualElements.genruntimeconfig.cache

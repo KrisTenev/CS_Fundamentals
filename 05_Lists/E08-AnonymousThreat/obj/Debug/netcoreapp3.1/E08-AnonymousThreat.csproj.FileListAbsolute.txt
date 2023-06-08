@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E08-AnonymousThreat\bin\Debug\netcoreapp3.1\E08-AnonymousThreat.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E08-AnonymousThreat\bin\Debug\netcoreapp3.1\E08-AnonymousThreat.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E08-AnonymousThreat\bin\Debug\netcoreapp3.1\E08-AnonymousThreat.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E08-AnonymousThreat\bin\Debug\netcoreapp3.1\E08-AnonymousThreat.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E08-AnonymousThreat\bin\Debug\netcoreapp3.1\E08-AnonymousThreat.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E08-AnonymousThreat\bin\Debug\netcoreapp3.1\E08-AnonymousThreat.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E08-AnonymousThreat\obj\Debug\netcoreapp3.1\E08-AnonymousThreat.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E08-AnonymousThreat\obj\Debug\netcoreapp3.1\E08-AnonymousThreat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E08-AnonymousThreat\obj\Debug\netcoreapp3.1\E08-AnonymousThreat.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E08-AnonymousThreat\obj\Debug\netcoreapp3.1\E08-AnonymousThreat.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E08-AnonymousThreat\obj\Debug\netcoreapp3.1\E08-AnonymousThreat.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E08-AnonymousThreat\obj\Debug\netcoreapp3.1\E08-AnonymousThreat.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E08-AnonymousThreat\obj\Debug\netcoreapp3.1\E08-AnonymousThreat.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E08-AnonymousThreat\obj\Debug\netcoreapp3.1\E08-AnonymousThreat.genruntimeconfig.cache

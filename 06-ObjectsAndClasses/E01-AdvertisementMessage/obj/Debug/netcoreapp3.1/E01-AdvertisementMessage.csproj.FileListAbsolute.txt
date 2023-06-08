@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E01-AdvertisementMessage\obj\Debug\netcoreapp3.1\E01-AdvertisementMessage.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E01-AdvertisementMessage\obj\Debug\netcoreapp3.1\E01-AdvertisementMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E01-AdvertisementMessage\obj\Debug\netcoreapp3.1\E01-AdvertisementMessage.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E01-AdvertisementMessage\obj\Debug\netcoreapp3.1\E01-AdvertisementMessage.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E01-AdvertisementMessage\obj\Debug\netcoreapp3.1\E01-AdvertisementMessage.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E01-AdvertisementMessage\bin\Debug\netcoreapp3.1\E01-AdvertisementMessage.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E01-AdvertisementMessage\bin\Debug\netcoreapp3.1\E01-AdvertisementMessage.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E01-AdvertisementMessage\bin\Debug\netcoreapp3.1\E01-AdvertisementMessage.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E01-AdvertisementMessage\bin\Debug\netcoreapp3.1\E01-AdvertisementMessage.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E01-AdvertisementMessage\bin\Debug\netcoreapp3.1\E01-AdvertisementMessage.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E01-AdvertisementMessage\bin\Debug\netcoreapp3.1\E01-AdvertisementMessage.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E01-AdvertisementMessage\obj\Debug\netcoreapp3.1\E01-AdvertisementMessage.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E01-AdvertisementMessage\obj\Debug\netcoreapp3.1\E01-AdvertisementMessage.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E01-AdvertisementMessage\obj\Debug\netcoreapp3.1\E01-AdvertisementMessage.genruntimeconfig.cache

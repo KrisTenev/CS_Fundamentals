@@ -1,0 +1,42 @@
+﻿using System;
+using System.Linq;
+
+namespace E05_TopIntegers
+{
+    internal class Program
+    {
+        static void Main()
+        {
+            // 1 4 3 2
+            // is 1 > 4, 3, 2   print numbers
+            // is 4 > 3, 2      print numbers
+
+            int[] numbers = Console.ReadLine().Split().Select(int.Parse).ToArray();
+
+            for (int i = 0; i < numbers.Length - 1; i++)
+            {
+                int currentNumber = numbers[i];
+                bool isTopInteger = true;
+
+                for (int j = i + 1; j < numbers.Length; j++)
+                {
+                    int otherNumber = numbers[j];
+
+                    if (currentNumber <= otherNumber)
+                    {
+                        isTopInteger = false;
+                        break;
+                    }
+                }
+
+                if (isTopInteger)
+                {
+                    Console.Write(currentNumber + " ");
+                }
+
+            }
+
+            Console.WriteLine(numbers[numbers.Length - 1]);
+        }
+    }
+}

@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E07-AppendArrays\bin\Debug\netcoreapp3.1\E07-AppendArrays.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E07-AppendArrays\bin\Debug\netcoreapp3.1\E07-AppendArrays.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E07-AppendArrays\bin\Debug\netcoreapp3.1\E07-AppendArrays.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E07-AppendArrays\bin\Debug\netcoreapp3.1\E07-AppendArrays.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E07-AppendArrays\bin\Debug\netcoreapp3.1\E07-AppendArrays.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E07-AppendArrays\bin\Debug\netcoreapp3.1\E07-AppendArrays.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E07-AppendArrays\obj\Debug\netcoreapp3.1\E07-AppendArrays.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E07-AppendArrays\obj\Debug\netcoreapp3.1\E07-AppendArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E07-AppendArrays\obj\Debug\netcoreapp3.1\E07-AppendArrays.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E07-AppendArrays\obj\Debug\netcoreapp3.1\E07-AppendArrays.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E07-AppendArrays\obj\Debug\netcoreapp3.1\E07-AppendArrays.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E07-AppendArrays\obj\Debug\netcoreapp3.1\E07-AppendArrays.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E07-AppendArrays\obj\Debug\netcoreapp3.1\E07-AppendArrays.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E07-AppendArrays\obj\Debug\netcoreapp3.1\E07-AppendArrays.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E09-KaminoFactory\bin\Debug\netcoreapp3.1\E09-KaminoFactory.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E09-KaminoFactory\bin\Debug\netcoreapp3.1\E09-KaminoFactory.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E09-KaminoFactory\bin\Debug\netcoreapp3.1\E09-KaminoFactory.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E09-KaminoFactory\bin\Debug\netcoreapp3.1\E09-KaminoFactory.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E09-KaminoFactory\bin\Debug\netcoreapp3.1\E09-KaminoFactory.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E09-KaminoFactory\bin\Debug\netcoreapp3.1\E09-KaminoFactory.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E09-KaminoFactory\obj\Debug\netcoreapp3.1\E09-KaminoFactory.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E09-KaminoFactory\obj\Debug\netcoreapp3.1\E09-KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E09-KaminoFactory\obj\Debug\netcoreapp3.1\E09-KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E09-KaminoFactory\obj\Debug\netcoreapp3.1\E09-KaminoFactory.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E09-KaminoFactory\obj\Debug\netcoreapp3.1\E09-KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E09-KaminoFactory\obj\Debug\netcoreapp3.1\E09-KaminoFactory.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E09-KaminoFactory\obj\Debug\netcoreapp3.1\E09-KaminoFactory.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E09-KaminoFactory\obj\Debug\netcoreapp3.1\E09-KaminoFactory.genruntimeconfig.cache

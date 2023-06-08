@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-EqualArrays\bin\Debug\netcoreapp3.1\E07-EqualArrays.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-EqualArrays\bin\Debug\netcoreapp3.1\E07-EqualArrays.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-EqualArrays\bin\Debug\netcoreapp3.1\E07-EqualArrays.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-EqualArrays\bin\Debug\netcoreapp3.1\E07-EqualArrays.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-EqualArrays\bin\Debug\netcoreapp3.1\E07-EqualArrays.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-EqualArrays\bin\Debug\netcoreapp3.1\E07-EqualArrays.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-EqualArrays\obj\Debug\netcoreapp3.1\E07-EqualArrays.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-EqualArrays\obj\Debug\netcoreapp3.1\E07-EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-EqualArrays\obj\Debug\netcoreapp3.1\E07-EqualArrays.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-EqualArrays\obj\Debug\netcoreapp3.1\E07-EqualArrays.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-EqualArrays\obj\Debug\netcoreapp3.1\E07-EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-EqualArrays\obj\Debug\netcoreapp3.1\E07-EqualArrays.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-EqualArrays\obj\Debug\netcoreapp3.1\E07-EqualArrays.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E07-EqualArrays\obj\Debug\netcoreapp3.1\E07-EqualArrays.genruntimeconfig.cache

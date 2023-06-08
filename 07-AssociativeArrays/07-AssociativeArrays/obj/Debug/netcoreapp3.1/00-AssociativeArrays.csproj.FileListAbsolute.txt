@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\07-AssociativeArrays\bin\Debug\netcoreapp3.1\00-AssociativeArrays.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\07-AssociativeArrays\bin\Debug\netcoreapp3.1\00-AssociativeArrays.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\07-AssociativeArrays\bin\Debug\netcoreapp3.1\00-AssociativeArrays.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\07-AssociativeArrays\bin\Debug\netcoreapp3.1\00-AssociativeArrays.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\07-AssociativeArrays\bin\Debug\netcoreapp3.1\00-AssociativeArrays.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\07-AssociativeArrays\bin\Debug\netcoreapp3.1\00-AssociativeArrays.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\07-AssociativeArrays\obj\Debug\netcoreapp3.1\00-AssociativeArrays.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\07-AssociativeArrays\obj\Debug\netcoreapp3.1\00-AssociativeArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\07-AssociativeArrays\obj\Debug\netcoreapp3.1\00-AssociativeArrays.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\07-AssociativeArrays\obj\Debug\netcoreapp3.1\00-AssociativeArrays.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\07-AssociativeArrays\obj\Debug\netcoreapp3.1\00-AssociativeArrays.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\07-AssociativeArrays\obj\Debug\netcoreapp3.1\00-AssociativeArrays.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\07-AssociativeArrays\obj\Debug\netcoreapp3.1\00-AssociativeArrays.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\07-AssociativeArrays\obj\Debug\netcoreapp3.1\00-AssociativeArrays.genruntimeconfig.cache

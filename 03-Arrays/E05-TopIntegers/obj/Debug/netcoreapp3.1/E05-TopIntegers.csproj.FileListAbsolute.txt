@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E05-TopIntegers\bin\Debug\netcoreapp3.1\E05-TopIntegers.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E05-TopIntegers\bin\Debug\netcoreapp3.1\E05-TopIntegers.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E05-TopIntegers\bin\Debug\netcoreapp3.1\E05-TopIntegers.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E05-TopIntegers\bin\Debug\netcoreapp3.1\E05-TopIntegers.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E05-TopIntegers\bin\Debug\netcoreapp3.1\E05-TopIntegers.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E05-TopIntegers\bin\Debug\netcoreapp3.1\E05-TopIntegers.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E05-TopIntegers\obj\Debug\netcoreapp3.1\E05-TopIntegers.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E05-TopIntegers\obj\Debug\netcoreapp3.1\E05-TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E05-TopIntegers\obj\Debug\netcoreapp3.1\E05-TopIntegers.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E05-TopIntegers\obj\Debug\netcoreapp3.1\E05-TopIntegers.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E05-TopIntegers\obj\Debug\netcoreapp3.1\E05-TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E05-TopIntegers\obj\Debug\netcoreapp3.1\E05-TopIntegers.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E05-TopIntegers\obj\Debug\netcoreapp3.1\E05-TopIntegers.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E05-TopIntegers\obj\Debug\netcoreapp3.1\E05-TopIntegers.genruntimeconfig.cache

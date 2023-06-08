@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L06-EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\L06-EvenAndOddSubtraction.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L06-EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\L06-EvenAndOddSubtraction.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L06-EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\L06-EvenAndOddSubtraction.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L06-EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\L06-EvenAndOddSubtraction.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L06-EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\L06-EvenAndOddSubtraction.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L06-EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\L06-EvenAndOddSubtraction.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L06-EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\L06-EvenAndOddSubtraction.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L06-EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\L06-EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L06-EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\L06-EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L06-EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\L06-EvenAndOddSubtraction.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L06-EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\L06-EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L06-EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\L06-EvenAndOddSubtraction.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L06-EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\L06-EvenAndOddSubtraction.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L06-EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\L06-EvenAndOddSubtraction.genruntimeconfig.cache

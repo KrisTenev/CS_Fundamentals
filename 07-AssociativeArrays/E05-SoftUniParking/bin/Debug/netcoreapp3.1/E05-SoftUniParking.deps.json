@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "E05-SoftUniParking/1.0.0": {
+        "runtime": {
+          "E05-SoftUniParking.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E05-SoftUniParking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

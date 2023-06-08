@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E02-CommonElements\bin\Debug\netcoreapp3.1\E02-CommonElements.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E02-CommonElements\bin\Debug\netcoreapp3.1\E02-CommonElements.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E02-CommonElements\bin\Debug\netcoreapp3.1\E02-CommonElements.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E02-CommonElements\bin\Debug\netcoreapp3.1\E02-CommonElements.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E02-CommonElements\bin\Debug\netcoreapp3.1\E02-CommonElements.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E02-CommonElements\bin\Debug\netcoreapp3.1\E02-CommonElements.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E02-CommonElements\obj\Debug\netcoreapp3.1\E02-CommonElements.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E02-CommonElements\obj\Debug\netcoreapp3.1\E02-CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E02-CommonElements\obj\Debug\netcoreapp3.1\E02-CommonElements.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E02-CommonElements\obj\Debug\netcoreapp3.1\E02-CommonElements.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E02-CommonElements\obj\Debug\netcoreapp3.1\E02-CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E02-CommonElements\obj\Debug\netcoreapp3.1\E02-CommonElements.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E02-CommonElements\obj\Debug\netcoreapp3.1\E02-CommonElements.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E02-CommonElements\obj\Debug\netcoreapp3.1\E02-CommonElements.genruntimeconfig.cache

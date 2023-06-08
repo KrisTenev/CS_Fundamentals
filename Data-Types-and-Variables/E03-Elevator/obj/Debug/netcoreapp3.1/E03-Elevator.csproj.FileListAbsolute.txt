@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\Data-Types-and-Variables\E03-Elevator\bin\Debug\netcoreapp3.1\E03-Elevator.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\Data-Types-and-Variables\E03-Elevator\bin\Debug\netcoreapp3.1\E03-Elevator.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\Data-Types-and-Variables\E03-Elevator\bin\Debug\netcoreapp3.1\E03-Elevator.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\Data-Types-and-Variables\E03-Elevator\bin\Debug\netcoreapp3.1\E03-Elevator.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\Data-Types-and-Variables\E03-Elevator\bin\Debug\netcoreapp3.1\E03-Elevator.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\Data-Types-and-Variables\E03-Elevator\bin\Debug\netcoreapp3.1\E03-Elevator.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\Data-Types-and-Variables\E03-Elevator\obj\Debug\netcoreapp3.1\E03-Elevator.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\Data-Types-and-Variables\E03-Elevator\obj\Debug\netcoreapp3.1\E03-Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\Data-Types-and-Variables\E03-Elevator\obj\Debug\netcoreapp3.1\E03-Elevator.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\Data-Types-and-Variables\E03-Elevator\obj\Debug\netcoreapp3.1\E03-Elevator.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\Data-Types-and-Variables\E03-Elevator\obj\Debug\netcoreapp3.1\E03-Elevator.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\Data-Types-and-Variables\E03-Elevator\obj\Debug\netcoreapp3.1\E03-Elevator.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\Data-Types-and-Variables\E03-Elevator\obj\Debug\netcoreapp3.1\E03-Elevator.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\Data-Types-and-Variables\E03-Elevator\obj\Debug\netcoreapp3.1\E03-Elevator.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E06-CardsGame\bin\Debug\netcoreapp3.1\E06-CardsGame.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E06-CardsGame\bin\Debug\netcoreapp3.1\E06-CardsGame.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E06-CardsGame\bin\Debug\netcoreapp3.1\E06-CardsGame.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E06-CardsGame\bin\Debug\netcoreapp3.1\E06-CardsGame.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E06-CardsGame\bin\Debug\netcoreapp3.1\E06-CardsGame.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E06-CardsGame\bin\Debug\netcoreapp3.1\E06-CardsGame.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E06-CardsGame\obj\Debug\netcoreapp3.1\E06-CardsGame.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E06-CardsGame\obj\Debug\netcoreapp3.1\E06-CardsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E06-CardsGame\obj\Debug\netcoreapp3.1\E06-CardsGame.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E06-CardsGame\obj\Debug\netcoreapp3.1\E06-CardsGame.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E06-CardsGame\obj\Debug\netcoreapp3.1\E06-CardsGame.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E06-CardsGame\obj\Debug\netcoreapp3.1\E06-CardsGame.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E06-CardsGame\obj\Debug\netcoreapp3.1\E06-CardsGame.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E06-CardsGame\obj\Debug\netcoreapp3.1\E06-CardsGame.genruntimeconfig.cache

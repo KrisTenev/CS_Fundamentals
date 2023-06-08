@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E02-ChangeList\bin\Debug\netcoreapp3.1\E02-ChangeList.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E02-ChangeList\bin\Debug\netcoreapp3.1\E02-ChangeList.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E02-ChangeList\bin\Debug\netcoreapp3.1\E02-ChangeList.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E02-ChangeList\bin\Debug\netcoreapp3.1\E02-ChangeList.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E02-ChangeList\bin\Debug\netcoreapp3.1\E02-ChangeList.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E02-ChangeList\bin\Debug\netcoreapp3.1\E02-ChangeList.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E02-ChangeList\obj\Debug\netcoreapp3.1\E02-ChangeList.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E02-ChangeList\obj\Debug\netcoreapp3.1\E02-ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E02-ChangeList\obj\Debug\netcoreapp3.1\E02-ChangeList.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E02-ChangeList\obj\Debug\netcoreapp3.1\E02-ChangeList.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E02-ChangeList\obj\Debug\netcoreapp3.1\E02-ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E02-ChangeList\obj\Debug\netcoreapp3.1\E02-ChangeList.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E02-ChangeList\obj\Debug\netcoreapp3.1\E02-ChangeList.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E02-ChangeList\obj\Debug\netcoreapp3.1\E02-ChangeList.genruntimeconfig.cache

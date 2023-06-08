@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\04-Methods_Functions\bin\Debug\netcoreapp3.1\04-Methods_Functions.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\04-Methods_Functions\bin\Debug\netcoreapp3.1\04-Methods_Functions.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\04-Methods_Functions\bin\Debug\netcoreapp3.1\04-Methods_Functions.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\04-Methods_Functions\bin\Debug\netcoreapp3.1\04-Methods_Functions.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\04-Methods_Functions\bin\Debug\netcoreapp3.1\04-Methods_Functions.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\04-Methods_Functions\bin\Debug\netcoreapp3.1\04-Methods_Functions.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\04-Methods_Functions\obj\Debug\netcoreapp3.1\04-Methods_Functions.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\04-Methods_Functions\obj\Debug\netcoreapp3.1\04-Methods_Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\04-Methods_Functions\obj\Debug\netcoreapp3.1\04-Methods_Functions.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\04-Methods_Functions\obj\Debug\netcoreapp3.1\04-Methods_Functions.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\04-Methods_Functions\obj\Debug\netcoreapp3.1\04-Methods_Functions.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\04-Methods_Functions\obj\Debug\netcoreapp3.1\04-Methods_Functions.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\04-Methods_Functions\obj\Debug\netcoreapp3.1\04-Methods_Functions.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\04-Methods_Functions\obj\Debug\netcoreapp3.1\04-Methods_Functions.genruntimeconfig.cache

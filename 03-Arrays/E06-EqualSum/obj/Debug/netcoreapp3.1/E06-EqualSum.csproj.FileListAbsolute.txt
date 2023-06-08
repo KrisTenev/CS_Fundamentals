@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E06-EqualSum\bin\Debug\netcoreapp3.1\E06-EqualSum.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E06-EqualSum\bin\Debug\netcoreapp3.1\E06-EqualSum.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E06-EqualSum\bin\Debug\netcoreapp3.1\E06-EqualSum.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E06-EqualSum\bin\Debug\netcoreapp3.1\E06-EqualSum.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E06-EqualSum\bin\Debug\netcoreapp3.1\E06-EqualSum.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E06-EqualSum\bin\Debug\netcoreapp3.1\E06-EqualSum.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E06-EqualSum\obj\Debug\netcoreapp3.1\E06-EqualSum.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E06-EqualSum\obj\Debug\netcoreapp3.1\E06-EqualSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E06-EqualSum\obj\Debug\netcoreapp3.1\E06-EqualSum.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E06-EqualSum\obj\Debug\netcoreapp3.1\E06-EqualSum.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E06-EqualSum\obj\Debug\netcoreapp3.1\E06-EqualSum.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E06-EqualSum\obj\Debug\netcoreapp3.1\E06-EqualSum.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E06-EqualSum\obj\Debug\netcoreapp3.1\E06-EqualSum.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E06-EqualSum\obj\Debug\netcoreapp3.1\E06-EqualSum.genruntimeconfig.cache

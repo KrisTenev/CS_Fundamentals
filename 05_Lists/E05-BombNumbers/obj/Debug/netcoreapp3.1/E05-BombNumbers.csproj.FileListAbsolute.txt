@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E05-BombNumbers\bin\Debug\netcoreapp3.1\E05-BombNumbers.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E05-BombNumbers\bin\Debug\netcoreapp3.1\E05-BombNumbers.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E05-BombNumbers\bin\Debug\netcoreapp3.1\E05-BombNumbers.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E05-BombNumbers\bin\Debug\netcoreapp3.1\E05-BombNumbers.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E05-BombNumbers\bin\Debug\netcoreapp3.1\E05-BombNumbers.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E05-BombNumbers\bin\Debug\netcoreapp3.1\E05-BombNumbers.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E05-BombNumbers\obj\Debug\netcoreapp3.1\E05-BombNumbers.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E05-BombNumbers\obj\Debug\netcoreapp3.1\E05-BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E05-BombNumbers\obj\Debug\netcoreapp3.1\E05-BombNumbers.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E05-BombNumbers\obj\Debug\netcoreapp3.1\E05-BombNumbers.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E05-BombNumbers\obj\Debug\netcoreapp3.1\E05-BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E05-BombNumbers\obj\Debug\netcoreapp3.1\E05-BombNumbers.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E05-BombNumbers\obj\Debug\netcoreapp3.1\E05-BombNumbers.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E05-BombNumbers\obj\Debug\netcoreapp3.1\E05-BombNumbers.genruntimeconfig.cache

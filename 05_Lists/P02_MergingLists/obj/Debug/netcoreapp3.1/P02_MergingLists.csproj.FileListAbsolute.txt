@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P02_MergingLists\bin\Debug\netcoreapp3.1\P02_MergingLists.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P02_MergingLists\bin\Debug\netcoreapp3.1\P02_MergingLists.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P02_MergingLists\bin\Debug\netcoreapp3.1\P02_MergingLists.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P02_MergingLists\bin\Debug\netcoreapp3.1\P02_MergingLists.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P02_MergingLists\bin\Debug\netcoreapp3.1\P02_MergingLists.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P02_MergingLists\bin\Debug\netcoreapp3.1\P02_MergingLists.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P02_MergingLists\obj\Debug\netcoreapp3.1\P02_MergingLists.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P02_MergingLists\obj\Debug\netcoreapp3.1\P02_MergingLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P02_MergingLists\obj\Debug\netcoreapp3.1\P02_MergingLists.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P02_MergingLists\obj\Debug\netcoreapp3.1\P02_MergingLists.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P02_MergingLists\obj\Debug\netcoreapp3.1\P02_MergingLists.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P02_MergingLists\obj\Debug\netcoreapp3.1\P02_MergingLists.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P02_MergingLists\obj\Debug\netcoreapp3.1\P02_MergingLists.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P02_MergingLists\obj\Debug\netcoreapp3.1\P02_MergingLists.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L05-SumEvenNumbers\bin\Debug\netcoreapp3.1\L05-SumEvenNumbers.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L05-SumEvenNumbers\bin\Debug\netcoreapp3.1\L05-SumEvenNumbers.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L05-SumEvenNumbers\bin\Debug\netcoreapp3.1\L05-SumEvenNumbers.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L05-SumEvenNumbers\bin\Debug\netcoreapp3.1\L05-SumEvenNumbers.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L05-SumEvenNumbers\bin\Debug\netcoreapp3.1\L05-SumEvenNumbers.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L05-SumEvenNumbers\bin\Debug\netcoreapp3.1\L05-SumEvenNumbers.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L05-SumEvenNumbers\obj\Debug\netcoreapp3.1\L05-SumEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L05-SumEvenNumbers\obj\Debug\netcoreapp3.1\L05-SumEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L05-SumEvenNumbers\obj\Debug\netcoreapp3.1\L05-SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L05-SumEvenNumbers\obj\Debug\netcoreapp3.1\L05-SumEvenNumbers.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L05-SumEvenNumbers\obj\Debug\netcoreapp3.1\L05-SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L05-SumEvenNumbers\obj\Debug\netcoreapp3.1\L05-SumEvenNumbers.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L05-SumEvenNumbers\obj\Debug\netcoreapp3.1\L05-SumEvenNumbers.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L05-SumEvenNumbers\obj\Debug\netcoreapp3.1\L05-SumEvenNumbers.genruntimeconfig.cache

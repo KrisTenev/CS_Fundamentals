@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\00-LambdaFunctions\bin\Debug\netcoreapp3.1\00-LambdaFunctions.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\00-LambdaFunctions\bin\Debug\netcoreapp3.1\00-LambdaFunctions.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\00-LambdaFunctions\bin\Debug\netcoreapp3.1\00-LambdaFunctions.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\00-LambdaFunctions\bin\Debug\netcoreapp3.1\00-LambdaFunctions.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\00-LambdaFunctions\bin\Debug\netcoreapp3.1\00-LambdaFunctions.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\00-LambdaFunctions\bin\Debug\netcoreapp3.1\00-LambdaFunctions.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\00-LambdaFunctions\obj\Debug\netcoreapp3.1\00-LambdaFunctions.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\00-LambdaFunctions\obj\Debug\netcoreapp3.1\00-LambdaFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\00-LambdaFunctions\obj\Debug\netcoreapp3.1\00-LambdaFunctions.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\00-LambdaFunctions\obj\Debug\netcoreapp3.1\00-LambdaFunctions.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\00-LambdaFunctions\obj\Debug\netcoreapp3.1\00-LambdaFunctions.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\00-LambdaFunctions\obj\Debug\netcoreapp3.1\00-LambdaFunctions.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\00-LambdaFunctions\obj\Debug\netcoreapp3.1\00-LambdaFunctions.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\00-LambdaFunctions\obj\Debug\netcoreapp3.1\00-LambdaFunctions.genruntimeconfig.cache

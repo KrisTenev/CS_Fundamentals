@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E08-FactorialDivision\bin\Debug\netcoreapp3.1\E08-FactorialDivision.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E08-FactorialDivision\bin\Debug\netcoreapp3.1\E08-FactorialDivision.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E08-FactorialDivision\bin\Debug\netcoreapp3.1\E08-FactorialDivision.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E08-FactorialDivision\bin\Debug\netcoreapp3.1\E08-FactorialDivision.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E08-FactorialDivision\bin\Debug\netcoreapp3.1\E08-FactorialDivision.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E08-FactorialDivision\bin\Debug\netcoreapp3.1\E08-FactorialDivision.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E08-FactorialDivision\obj\Debug\netcoreapp3.1\E08-FactorialDivision.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E08-FactorialDivision\obj\Debug\netcoreapp3.1\E08-FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E08-FactorialDivision\obj\Debug\netcoreapp3.1\E08-FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E08-FactorialDivision\obj\Debug\netcoreapp3.1\E08-FactorialDivision.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E08-FactorialDivision\obj\Debug\netcoreapp3.1\E08-FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E08-FactorialDivision\obj\Debug\netcoreapp3.1\E08-FactorialDivision.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E08-FactorialDivision\obj\Debug\netcoreapp3.1\E08-FactorialDivision.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E08-FactorialDivision\obj\Debug\netcoreapp3.1\E08-FactorialDivision.genruntimeconfig.cache

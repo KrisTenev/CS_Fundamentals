@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-ReadArraysFromConsole\bin\Debug\netcoreapp3.1\00-ReadArraysFromConsole.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-ReadArraysFromConsole\bin\Debug\netcoreapp3.1\00-ReadArraysFromConsole.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-ReadArraysFromConsole\bin\Debug\netcoreapp3.1\00-ReadArraysFromConsole.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-ReadArraysFromConsole\bin\Debug\netcoreapp3.1\00-ReadArraysFromConsole.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-ReadArraysFromConsole\bin\Debug\netcoreapp3.1\00-ReadArraysFromConsole.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-ReadArraysFromConsole\bin\Debug\netcoreapp3.1\00-ReadArraysFromConsole.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-ReadArraysFromConsole\obj\Debug\netcoreapp3.1\00-ReadArraysFromConsole.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-ReadArraysFromConsole\obj\Debug\netcoreapp3.1\00-ReadArraysFromConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-ReadArraysFromConsole\obj\Debug\netcoreapp3.1\00-ReadArraysFromConsole.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-ReadArraysFromConsole\obj\Debug\netcoreapp3.1\00-ReadArraysFromConsole.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-ReadArraysFromConsole\obj\Debug\netcoreapp3.1\00-ReadArraysFromConsole.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-ReadArraysFromConsole\obj\Debug\netcoreapp3.1\00-ReadArraysFromConsole.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-ReadArraysFromConsole\obj\Debug\netcoreapp3.1\00-ReadArraysFromConsole.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-ReadArraysFromConsole\obj\Debug\netcoreapp3.1\00-ReadArraysFromConsole.genruntimeconfig.cache

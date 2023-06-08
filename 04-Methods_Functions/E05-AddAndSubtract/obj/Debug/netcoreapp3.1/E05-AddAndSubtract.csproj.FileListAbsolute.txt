@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E05-AddAndSubtract\bin\Debug\netcoreapp3.1\E05-AddAndSubtract.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E05-AddAndSubtract\bin\Debug\netcoreapp3.1\E05-AddAndSubtract.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E05-AddAndSubtract\bin\Debug\netcoreapp3.1\E05-AddAndSubtract.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E05-AddAndSubtract\bin\Debug\netcoreapp3.1\E05-AddAndSubtract.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E05-AddAndSubtract\bin\Debug\netcoreapp3.1\E05-AddAndSubtract.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E05-AddAndSubtract\bin\Debug\netcoreapp3.1\E05-AddAndSubtract.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E05-AddAndSubtract\obj\Debug\netcoreapp3.1\E05-AddAndSubtract.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E05-AddAndSubtract\obj\Debug\netcoreapp3.1\E05-AddAndSubtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E05-AddAndSubtract\obj\Debug\netcoreapp3.1\E05-AddAndSubtract.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E05-AddAndSubtract\obj\Debug\netcoreapp3.1\E05-AddAndSubtract.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E05-AddAndSubtract\obj\Debug\netcoreapp3.1\E05-AddAndSubtract.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E05-AddAndSubtract\obj\Debug\netcoreapp3.1\E05-AddAndSubtract.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E05-AddAndSubtract\obj\Debug\netcoreapp3.1\E05-AddAndSubtract.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E05-AddAndSubtract\obj\Debug\netcoreapp3.1\E05-AddAndSubtract.genruntimeconfig.cache

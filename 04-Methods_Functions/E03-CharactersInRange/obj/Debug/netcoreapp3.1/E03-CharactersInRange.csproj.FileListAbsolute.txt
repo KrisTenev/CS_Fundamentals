@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E03-CharactersInRange\bin\Debug\netcoreapp3.1\E03-CharactersInRange.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E03-CharactersInRange\bin\Debug\netcoreapp3.1\E03-CharactersInRange.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E03-CharactersInRange\bin\Debug\netcoreapp3.1\E03-CharactersInRange.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E03-CharactersInRange\bin\Debug\netcoreapp3.1\E03-CharactersInRange.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E03-CharactersInRange\bin\Debug\netcoreapp3.1\E03-CharactersInRange.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E03-CharactersInRange\bin\Debug\netcoreapp3.1\E03-CharactersInRange.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E03-CharactersInRange\obj\Debug\netcoreapp3.1\E03-CharactersInRange.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E03-CharactersInRange\obj\Debug\netcoreapp3.1\E03-CharactersInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E03-CharactersInRange\obj\Debug\netcoreapp3.1\E03-CharactersInRange.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E03-CharactersInRange\obj\Debug\netcoreapp3.1\E03-CharactersInRange.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E03-CharactersInRange\obj\Debug\netcoreapp3.1\E03-CharactersInRange.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E03-CharactersInRange\obj\Debug\netcoreapp3.1\E03-CharactersInRange.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E03-CharactersInRange\obj\Debug\netcoreapp3.1\E03-CharactersInRange.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\04-Methods_Functions\E03-CharactersInRange\obj\Debug\netcoreapp3.1\E03-CharactersInRange.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "M01_EncryptSortPrintArray/1.0.0": {
+        "runtime": {
+          "M01_EncryptSortPrintArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M01_EncryptSortPrintArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

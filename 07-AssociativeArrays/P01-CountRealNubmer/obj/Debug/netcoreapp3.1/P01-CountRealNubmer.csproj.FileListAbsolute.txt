@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P01-CountRealNubmer\bin\Debug\netcoreapp3.1\P01-CountRealNubmer.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P01-CountRealNubmer\bin\Debug\netcoreapp3.1\P01-CountRealNubmer.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P01-CountRealNubmer\bin\Debug\netcoreapp3.1\P01-CountRealNubmer.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P01-CountRealNubmer\bin\Debug\netcoreapp3.1\P01-CountRealNubmer.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P01-CountRealNubmer\bin\Debug\netcoreapp3.1\P01-CountRealNubmer.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P01-CountRealNubmer\bin\Debug\netcoreapp3.1\P01-CountRealNubmer.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P01-CountRealNubmer\obj\Debug\netcoreapp3.1\P01-CountRealNubmer.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P01-CountRealNubmer\obj\Debug\netcoreapp3.1\P01-CountRealNubmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P01-CountRealNubmer\obj\Debug\netcoreapp3.1\P01-CountRealNubmer.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P01-CountRealNubmer\obj\Debug\netcoreapp3.1\P01-CountRealNubmer.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P01-CountRealNubmer\obj\Debug\netcoreapp3.1\P01-CountRealNubmer.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P01-CountRealNubmer\obj\Debug\netcoreapp3.1\P01-CountRealNubmer.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P01-CountRealNubmer\obj\Debug\netcoreapp3.1\P01-CountRealNubmer.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\P01-CountRealNubmer\obj\Debug\netcoreapp3.1\P01-CountRealNubmer.genruntimeconfig.cache

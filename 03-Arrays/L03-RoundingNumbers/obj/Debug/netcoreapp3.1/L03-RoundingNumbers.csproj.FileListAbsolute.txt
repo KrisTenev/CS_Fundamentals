@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L03-RoundingNumbers\bin\Debug\netcoreapp3.1\L03-RoundingNumbers.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L03-RoundingNumbers\bin\Debug\netcoreapp3.1\L03-RoundingNumbers.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L03-RoundingNumbers\bin\Debug\netcoreapp3.1\L03-RoundingNumbers.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L03-RoundingNumbers\bin\Debug\netcoreapp3.1\L03-RoundingNumbers.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L03-RoundingNumbers\bin\Debug\netcoreapp3.1\L03-RoundingNumbers.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L03-RoundingNumbers\bin\Debug\netcoreapp3.1\L03-RoundingNumbers.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L03-RoundingNumbers\obj\Debug\netcoreapp3.1\L03-RoundingNumbers.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L03-RoundingNumbers\obj\Debug\netcoreapp3.1\L03-RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L03-RoundingNumbers\obj\Debug\netcoreapp3.1\L03-RoundingNumbers.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L03-RoundingNumbers\obj\Debug\netcoreapp3.1\L03-RoundingNumbers.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L03-RoundingNumbers\obj\Debug\netcoreapp3.1\L03-RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L03-RoundingNumbers\obj\Debug\netcoreapp3.1\L03-RoundingNumbers.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L03-RoundingNumbers\obj\Debug\netcoreapp3.1\L03-RoundingNumbers.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L03-RoundingNumbers\obj\Debug\netcoreapp3.1\L03-RoundingNumbers.genruntimeconfig.cache

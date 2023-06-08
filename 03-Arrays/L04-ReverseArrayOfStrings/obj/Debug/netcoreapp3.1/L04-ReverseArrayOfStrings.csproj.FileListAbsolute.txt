@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L04-ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\L04-ReverseArrayOfStrings.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L04-ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\L04-ReverseArrayOfStrings.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L04-ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\L04-ReverseArrayOfStrings.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L04-ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\L04-ReverseArrayOfStrings.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L04-ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\L04-ReverseArrayOfStrings.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L04-ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\L04-ReverseArrayOfStrings.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L04-ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\L04-ReverseArrayOfStrings.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L04-ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\L04-ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L04-ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\L04-ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L04-ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\L04-ReverseArrayOfStrings.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L04-ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\L04-ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L04-ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\L04-ReverseArrayOfStrings.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L04-ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\L04-ReverseArrayOfStrings.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\L04-ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\L04-ReverseArrayOfStrings.genruntimeconfig.cache

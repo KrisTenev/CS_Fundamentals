@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P04-RemoveNegativeAndReverce\bin\Debug\netcoreapp3.1\P04-RemoveNegativeAndReverse.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P04-RemoveNegativeAndReverce\bin\Debug\netcoreapp3.1\P04-RemoveNegativeAndReverse.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P04-RemoveNegativeAndReverce\bin\Debug\netcoreapp3.1\P04-RemoveNegativeAndReverse.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P04-RemoveNegativeAndReverce\bin\Debug\netcoreapp3.1\P04-RemoveNegativeAndReverse.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P04-RemoveNegativeAndReverce\bin\Debug\netcoreapp3.1\P04-RemoveNegativeAndReverse.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P04-RemoveNegativeAndReverce\bin\Debug\netcoreapp3.1\P04-RemoveNegativeAndReverse.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P04-RemoveNegativeAndReverce\obj\Debug\netcoreapp3.1\P04-RemoveNegativeAndReverse.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P04-RemoveNegativeAndReverce\obj\Debug\netcoreapp3.1\P04-RemoveNegativeAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P04-RemoveNegativeAndReverce\obj\Debug\netcoreapp3.1\P04-RemoveNegativeAndReverse.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P04-RemoveNegativeAndReverce\obj\Debug\netcoreapp3.1\P04-RemoveNegativeAndReverse.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P04-RemoveNegativeAndReverce\obj\Debug\netcoreapp3.1\P04-RemoveNegativeAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P04-RemoveNegativeAndReverce\obj\Debug\netcoreapp3.1\P04-RemoveNegativeAndReverse.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P04-RemoveNegativeAndReverce\obj\Debug\netcoreapp3.1\P04-RemoveNegativeAndReverse.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P04-RemoveNegativeAndReverce\obj\Debug\netcoreapp3.1\P04-RemoveNegativeAndReverse.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\MaxElements\bin\Debug\netcoreapp3.1\MaxElements.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\MaxElements\bin\Debug\netcoreapp3.1\MaxElements.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\MaxElements\bin\Debug\netcoreapp3.1\MaxElements.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\MaxElements\bin\Debug\netcoreapp3.1\MaxElements.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\MaxElements\bin\Debug\netcoreapp3.1\MaxElements.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\MaxElements\bin\Debug\netcoreapp3.1\MaxElements.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\MaxElements\obj\Debug\netcoreapp3.1\MaxElements.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\MaxElements\obj\Debug\netcoreapp3.1\MaxElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\MaxElements\obj\Debug\netcoreapp3.1\MaxElements.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\MaxElements\obj\Debug\netcoreapp3.1\MaxElements.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\MaxElements\obj\Debug\netcoreapp3.1\MaxElements.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\MaxElements\obj\Debug\netcoreapp3.1\MaxElements.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\MaxElements\obj\Debug\netcoreapp3.1\MaxElements.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\MaxElements\obj\Debug\netcoreapp3.1\MaxElements.genruntimeconfig.cache

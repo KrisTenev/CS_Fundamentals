@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\00-Classes\bin\Debug\netcoreapp3.1\00-Classes.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\00-Classes\bin\Debug\netcoreapp3.1\00-Classes.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\00-Classes\bin\Debug\netcoreapp3.1\00-Classes.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\00-Classes\bin\Debug\netcoreapp3.1\00-Classes.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\00-Classes\bin\Debug\netcoreapp3.1\00-Classes.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\00-Classes\bin\Debug\netcoreapp3.1\00-Classes.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\00-Classes\obj\Debug\netcoreapp3.1\00-Classes.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\00-Classes\obj\Debug\netcoreapp3.1\00-Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\00-Classes\obj\Debug\netcoreapp3.1\00-Classes.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\00-Classes\obj\Debug\netcoreapp3.1\00-Classes.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\00-Classes\obj\Debug\netcoreapp3.1\00-Classes.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\00-Classes\obj\Debug\netcoreapp3.1\00-Classes.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\00-Classes\obj\Debug\netcoreapp3.1\00-Classes.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\00-Classes\obj\Debug\netcoreapp3.1\00-Classes.genruntimeconfig.cache

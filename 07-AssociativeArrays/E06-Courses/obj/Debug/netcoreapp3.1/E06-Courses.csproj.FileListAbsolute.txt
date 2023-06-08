@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E06-Courses\bin\Debug\netcoreapp3.1\E06-Courses.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E06-Courses\bin\Debug\netcoreapp3.1\E06-Courses.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E06-Courses\bin\Debug\netcoreapp3.1\E06-Courses.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E06-Courses\bin\Debug\netcoreapp3.1\E06-Courses.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E06-Courses\bin\Debug\netcoreapp3.1\E06-Courses.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E06-Courses\bin\Debug\netcoreapp3.1\E06-Courses.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E06-Courses\obj\Debug\netcoreapp3.1\E06-Courses.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E06-Courses\obj\Debug\netcoreapp3.1\E06-Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E06-Courses\obj\Debug\netcoreapp3.1\E06-Courses.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E06-Courses\obj\Debug\netcoreapp3.1\E06-Courses.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E06-Courses\obj\Debug\netcoreapp3.1\E06-Courses.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E06-Courses\obj\Debug\netcoreapp3.1\E06-Courses.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E06-Courses\obj\Debug\netcoreapp3.1\E06-Courses.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E06-Courses\obj\Debug\netcoreapp3.1\E06-Courses.genruntimeconfig.cache

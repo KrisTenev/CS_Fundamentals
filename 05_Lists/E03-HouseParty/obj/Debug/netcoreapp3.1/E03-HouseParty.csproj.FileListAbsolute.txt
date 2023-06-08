@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E03-HouseParty\bin\Debug\netcoreapp3.1\E03-HouseParty.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E03-HouseParty\bin\Debug\netcoreapp3.1\E03-HouseParty.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E03-HouseParty\bin\Debug\netcoreapp3.1\E03-HouseParty.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E03-HouseParty\bin\Debug\netcoreapp3.1\E03-HouseParty.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E03-HouseParty\bin\Debug\netcoreapp3.1\E03-HouseParty.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E03-HouseParty\bin\Debug\netcoreapp3.1\E03-HouseParty.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E03-HouseParty\obj\Debug\netcoreapp3.1\E03-HouseParty.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E03-HouseParty\obj\Debug\netcoreapp3.1\E03-HouseParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E03-HouseParty\obj\Debug\netcoreapp3.1\E03-HouseParty.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E03-HouseParty\obj\Debug\netcoreapp3.1\E03-HouseParty.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E03-HouseParty\obj\Debug\netcoreapp3.1\E03-HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E03-HouseParty\obj\Debug\netcoreapp3.1\E03-HouseParty.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E03-HouseParty\obj\Debug\netcoreapp3.1\E03-HouseParty.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\E03-HouseParty\obj\Debug\netcoreapp3.1\E03-HouseParty.genruntimeconfig.cache

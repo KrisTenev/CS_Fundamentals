@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-Zz\bin\Debug\netcoreapp3.1\00-Zz.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-Zz\bin\Debug\netcoreapp3.1\00-Zz.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-Zz\bin\Debug\netcoreapp3.1\00-Zz.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-Zz\bin\Debug\netcoreapp3.1\00-Zz.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-Zz\bin\Debug\netcoreapp3.1\00-Zz.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-Zz\bin\Debug\netcoreapp3.1\00-Zz.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-Zz\obj\Debug\netcoreapp3.1\00-Zz.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-Zz\obj\Debug\netcoreapp3.1\00-Zz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-Zz\obj\Debug\netcoreapp3.1\00-Zz.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-Zz\obj\Debug\netcoreapp3.1\00-Zz.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-Zz\obj\Debug\netcoreapp3.1\00-Zz.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-Zz\obj\Debug\netcoreapp3.1\00-Zz.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-Zz\obj\Debug\netcoreapp3.1\00-Zz.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\00-Zz\obj\Debug\netcoreapp3.1\00-Zz.genruntimeconfig.cache

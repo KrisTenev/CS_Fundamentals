@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P_GaussTrick\bin\Debug\netcoreapp3.1\P01_GaussTrick.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P_GaussTrick\bin\Debug\netcoreapp3.1\P01_GaussTrick.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P_GaussTrick\bin\Debug\netcoreapp3.1\P01_GaussTrick.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P_GaussTrick\bin\Debug\netcoreapp3.1\P01_GaussTrick.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P_GaussTrick\bin\Debug\netcoreapp3.1\P01_GaussTrick.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P_GaussTrick\bin\Debug\netcoreapp3.1\P01_GaussTrick.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P_GaussTrick\obj\Debug\netcoreapp3.1\P01_GaussTrick.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P_GaussTrick\obj\Debug\netcoreapp3.1\P01_GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P_GaussTrick\obj\Debug\netcoreapp3.1\P01_GaussTrick.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P_GaussTrick\obj\Debug\netcoreapp3.1\P01_GaussTrick.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P_GaussTrick\obj\Debug\netcoreapp3.1\P01_GaussTrick.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P_GaussTrick\obj\Debug\netcoreapp3.1\P01_GaussTrick.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P_GaussTrick\obj\Debug\netcoreapp3.1\P01_GaussTrick.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\05_Lists\P_GaussTrick\obj\Debug\netcoreapp3.1\P01_GaussTrick.genruntimeconfig.cache

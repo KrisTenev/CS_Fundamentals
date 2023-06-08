@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E05-SoftUniParking\bin\Debug\netcoreapp3.1\E05-SoftUniParking.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E05-SoftUniParking\bin\Debug\netcoreapp3.1\E05-SoftUniParking.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E05-SoftUniParking\bin\Debug\netcoreapp3.1\E05-SoftUniParking.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E05-SoftUniParking\bin\Debug\netcoreapp3.1\E05-SoftUniParking.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E05-SoftUniParking\bin\Debug\netcoreapp3.1\E05-SoftUniParking.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E05-SoftUniParking\bin\Debug\netcoreapp3.1\E05-SoftUniParking.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E05-SoftUniParking\obj\Debug\netcoreapp3.1\E05-SoftUniParking.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E05-SoftUniParking\obj\Debug\netcoreapp3.1\E05-SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E05-SoftUniParking\obj\Debug\netcoreapp3.1\E05-SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E05-SoftUniParking\obj\Debug\netcoreapp3.1\E05-SoftUniParking.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E05-SoftUniParking\obj\Debug\netcoreapp3.1\E05-SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E05-SoftUniParking\obj\Debug\netcoreapp3.1\E05-SoftUniParking.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E05-SoftUniParking\obj\Debug\netcoreapp3.1\E05-SoftUniParking.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\07-AssociativeArrays\E05-SoftUniParking\obj\Debug\netcoreapp3.1\E05-SoftUniParking.genruntimeconfig.cache

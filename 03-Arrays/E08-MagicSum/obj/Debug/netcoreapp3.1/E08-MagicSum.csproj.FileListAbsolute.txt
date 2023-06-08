@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E08-MagicSum\bin\Debug\netcoreapp3.1\E08-MagicSum.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E08-MagicSum\bin\Debug\netcoreapp3.1\E08-MagicSum.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E08-MagicSum\bin\Debug\netcoreapp3.1\E08-MagicSum.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E08-MagicSum\bin\Debug\netcoreapp3.1\E08-MagicSum.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E08-MagicSum\bin\Debug\netcoreapp3.1\E08-MagicSum.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E08-MagicSum\bin\Debug\netcoreapp3.1\E08-MagicSum.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E08-MagicSum\obj\Debug\netcoreapp3.1\E08-MagicSum.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E08-MagicSum\obj\Debug\netcoreapp3.1\E08-MagicSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E08-MagicSum\obj\Debug\netcoreapp3.1\E08-MagicSum.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E08-MagicSum\obj\Debug\netcoreapp3.1\E08-MagicSum.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E08-MagicSum\obj\Debug\netcoreapp3.1\E08-MagicSum.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E08-MagicSum\obj\Debug\netcoreapp3.1\E08-MagicSum.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E08-MagicSum\obj\Debug\netcoreapp3.1\E08-MagicSum.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\03-Arrays\E08-MagicSum\obj\Debug\netcoreapp3.1\E08-MagicSum.genruntimeconfig.cache

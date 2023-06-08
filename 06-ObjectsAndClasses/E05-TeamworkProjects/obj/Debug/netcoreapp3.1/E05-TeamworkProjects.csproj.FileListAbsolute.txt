@@ -1,0 +1,14 @@
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E05-TeamworkProjects\obj\Debug\netcoreapp3.1\E05-TeamworkProjects.csproj.AssemblyReference.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E05-TeamworkProjects\obj\Debug\netcoreapp3.1\E05-TeamworkProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E05-TeamworkProjects\obj\Debug\netcoreapp3.1\E05-TeamworkProjects.AssemblyInfoInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E05-TeamworkProjects\obj\Debug\netcoreapp3.1\E05-TeamworkProjects.AssemblyInfo.cs
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E05-TeamworkProjects\obj\Debug\netcoreapp3.1\E05-TeamworkProjects.csproj.CoreCompileInputs.cache
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E05-TeamworkProjects\bin\Debug\netcoreapp3.1\E05-TeamworkProjects.exe
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E05-TeamworkProjects\bin\Debug\netcoreapp3.1\E05-TeamworkProjects.deps.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E05-TeamworkProjects\bin\Debug\netcoreapp3.1\E05-TeamworkProjects.runtimeconfig.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E05-TeamworkProjects\bin\Debug\netcoreapp3.1\E05-TeamworkProjects.runtimeconfig.dev.json
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E05-TeamworkProjects\bin\Debug\netcoreapp3.1\E05-TeamworkProjects.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E05-TeamworkProjects\bin\Debug\netcoreapp3.1\E05-TeamworkProjects.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E05-TeamworkProjects\obj\Debug\netcoreapp3.1\E05-TeamworkProjects.dll
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E05-TeamworkProjects\obj\Debug\netcoreapp3.1\E05-TeamworkProjects.pdb
+C:\Users\z003tyad\source\repos\CS_Fundamentals\06-ObjectsAndClasses\E05-TeamworkProjects\obj\Debug\netcoreapp3.1\E05-TeamworkProjects.genruntimeconfig.cache
